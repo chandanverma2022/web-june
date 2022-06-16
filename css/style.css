@@ -1,0 +1,28 @@
+body {
+background-color: royalblue;
+}
+main {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-color: beige;
+}
+h1 {
+    font-family: fantasy,cursives,serif;
+    color: maroon;
+    border-bottom: 1 px dotted darkgreen;
+}
+h2 {
+    font-family: fantasy,cursives,serif;
+    color: blueviolet;
+    border-bottom: 1 px dotted darkgreen;
+}
+h3 {
+    font-family: fantasy,cursives,serif;
+    color:red;
+    border-bottom: 1 px dotted darkgreen;
+}
+p {
+    font-family: sans-serif;
+    color: orange;
+}
